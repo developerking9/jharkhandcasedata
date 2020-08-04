@@ -2,17 +2,17 @@
   "jharkandcasedata": [
     {
        "id": 1,
-      "Name": "Jharkhand (झारखंड)",
-      "TotalCases": "1583792",
-      "TotalDeaths": "34968",
-      "TotalRecovered": "1020582",
-      "TotalCaseso": "1.58M",
-      "TotalDeathsw": "34.96K",
-      "TotalRecoveredr": "1.02M",
-      "TotalInc": "52.12K+",
-      "TotalDec": "775+",
-      "TotalRec": "32.55K+",
-      "Condition": "Need to improve"
+      "Namejd": "Jharkhand (झारखंड)",
+      "TotalCasesjd": "1583792",
+      "TotalDeathsjd": "34968",
+      "TotalRecoveredjd": "1020582",
+      "TotalCasesojd": "1.58M",
+      "TotalDeathswjd": "34.96K",
+      "TotalRecoveredrjd": "1.02M",
+      "TotalIncjd": "52.12K+",
+      "TotalDecjd": "775+",
+      "TotalRecjd": "32.55K+",
+      "Conditionjd": "Need to improve"
     }
   ]
 }
